@@ -11,4 +11,4 @@
 7. Check if the name matches the internal network name of the pfSense VM
 8. Start pfSense's VM and resume like a normal installation
 
-Now you can acces pfSense's network and its dashboard on the other VM you installed.
+Now you can acces pfSense's network and its dashboard on the VM with the same internal network.
